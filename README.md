@@ -29,5 +29,5 @@ The Airbnb NYC Dashboard provides a overview of various metrics related to Airbn
    - This table shows the average number of reviews per month segmented by neighborhood group and room type.
    - Bronx has the highest average reviews per month for entire homes/apartments, indicating higher guest turnover or satisfaction in that area.
    - Manhattan and Brooklyn also have strong review metrics, particularly for private rooms and entire homes/apartments.
-  
-     The dashboard effectively highlights the dominance of Manhattan and Brooklyn in the Airbnb market in New York City, both in terms of the number of listings and bookings.
+
+The dashboard effectively highlights the dominance of Manhattan and Brooklyn in the Airbnb market in New York City, both in terms of the number of listings and bookings.
